@@ -8,8 +8,9 @@ Nessa maratona será realizado o desenvolvimento de uma aplicação web usando H
   - Marcação
     - tags
     - atributos
-  -Linguagem
-    - maneira de escrever
+  - Linguagem
+    - Maneira de escrever
+    
  
 # CSS
   - Apresentação visual para o cliente
