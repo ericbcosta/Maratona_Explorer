@@ -1,5 +1,5 @@
 # Maratona Explorer
-Nessa maratona será realizado o desenvolvimento de uma aplicação web usando HTML, CSS e JavaScript.
+Nessa maratona foi realizado o desenvolvimento de uma aplicação web usando HTML, CSS e JavaScript.
 
 # HTML
   - HyperText Markup Languange
@@ -10,7 +10,7 @@ Nessa maratona será realizado o desenvolvimento de uma aplicação web usando H
     - atributos
   - Linguagem
     - Maneira de escrever
-    
+
  
 # CSS
   - Apresentação visual para o cliente
