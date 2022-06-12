@@ -1,5 +1,4 @@
 # Maratona Explorer
-
   # HTML
     - HyperText Markup Languange
 
@@ -15,9 +14,11 @@
     - Estilos para o HTML
     - Cascading Style Sheets
       - Folha de Estilo em Cascata
+      ##
     - Declaração
       - Seletor
       - Propriedade e Valor
+      ##
     - Conceitos
       - Cascata
       - Especificidade
